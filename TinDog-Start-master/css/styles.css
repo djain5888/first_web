@@ -1,0 +1,118 @@
+#title{
+    background-color: #ff4c68;
+    padding-bottom: 5%;
+    margin-bottom: 0%;
+
+}
+#carouselExampleControls{
+    padding: 4% 8%;
+    margin-top: 3%;
+
+}
+.pricing_head{
+    font-size: 2em;
+    color: black;
+    font-family: 'Montserrat-black', sans-serif;
+}
+
+
+h1{
+    font-family: 'Montserrat-black', sans-serif;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    color: white;
+}
+h3{
+    text-align: center;
+    padding-bottom: 3%;
+}
+p{
+    text-align: center;
+    color:#8f8f8f
+}
+.icon{
+    margin-bottom: 5px;
+    color: #ef8172;
+}
+.card_pricing{
+    
+    padding:3% 5%;
+        
+}
+.editor_card{
+    margin-top: 3%;
+    text-align: center;
+}
+.magic{
+    text-align: center;
+}
+.container-fluid{
+    padding: 1% 10%;
+}
+.nav-item{
+    padding: 2% 3% 0%;
+}
+.navbar-brand{
+    font-size: 3rem;
+}
+
+.navbar{
+    padding: 1% 0;
+}
+.iphone-image{
+    padding: 0% 1%;
+    margin: 0%;
+    position:absolute;
+    width: 60%;
+    z-index: 1;
+    transform: rotate(19deg);
+}
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    margin-top: 0%;
+    position: relative;
+    z-index: 2;
+    color: white;
+}
+.dog{
+    border-radius: 50%;
+    padding: 3%;
+    width: 25%;
+}
+h2{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Montserrat-strong', sans-serif;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+
+}
+#cta{
+    background-color: #ff4c68;
+    padding: 5%;
+    color: white;
+    font-weight: 900;
+    font-family:'Montserrat-black';
+    text-align: center;
+}
+.logo2{
+    text-align: center;
+    padding: 2%;
+    align-items: center;
+    width: 20%;
+}
+#features{
+    background-color: white;
+    position: relative;
+    padding: 8% 4%;
+    margin-bottom: 0%;
+    z-index: 5;
+}
+#footer{
+    padding: 4% 5% 1%;
+    text-align: center;
+}
