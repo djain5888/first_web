@@ -15,7 +15,6 @@
     font-family: 'Montserrat-black', sans-serif;
 }
 
-
 h1{
     font-family: 'Montserrat-black', sans-serif;
     line-height: 1.5;
@@ -115,4 +114,16 @@ h2{
 #footer{
     padding: 4% 5% 1%;
     text-align: center;
+}
+
+@media (max-width:1028px)
+{
+    .iphone-image{
+        position: static;
+        transform: rotate(0);
+        padding: 4% ;
+    }
+    #title{
+        text-align: center;
+    }
 }
